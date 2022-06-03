@@ -6,7 +6,7 @@
      - E-mail: beau.sas99@gmail.com
      - Instagram: [beau.sas](https://www.instagram.com/beau.sas/)
      - Website: [atmo-gen](https://www.atmo-gen.com/)
-     - 
+
 I'm currently still studying for *IT & Electrical Engineering* degree, but that doesn't stop me from working
  on my many side-projects. My interests are very diverse, and enjoy learning and aquiring new skills.
  Before starting my current studies, I've been studying *game development* in a different independent University.
