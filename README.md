@@ -14,7 +14,7 @@ I'm currently still studying for *IT & Electrical Engineering* degree, but that 
  Before starting my current studies, I've been studying *game development* in a different independent University.
  I prefer executing and working on my own projects or working in teams for fun competitions & challenges,
    but I'm definately willing to listen for external proposals.
- ----------------------------------------------------------------------------------------------------------------------------
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
  Sharpening my skills and creating pieces is not limited to coding & electronics. I also have a wide skillset in
  digital arts going from ***photoshop*** to ***editting/videography*** to ***3D-Modelling*** & so on. If you wish to discuss any of these
  matters, please message me. 🙂
